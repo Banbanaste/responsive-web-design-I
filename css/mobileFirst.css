@@ -304,7 +304,7 @@ footer {
   }
 
   header img {
-    justify-self: flex-end !important;
+    margin-top: 12px;
   }
 
   header nav {
@@ -318,6 +318,8 @@ footer {
     color: rgb(158, 158, 158) !important;
     text-decoration: none !important;
     margin-right: 40px !important;
+    width: auto;
+    border: none;
     transition: ease-in-out 0.2s !important;
   }
 
